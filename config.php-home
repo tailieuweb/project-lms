@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
 
-$CFG->wwwroot   = 'http://lms.local';
+$CFG->wwwroot   = 'http://moodle.local';
 $CFG->dataroot  = 'D:\\99-e-repo\\2-dev-git\\1-elearning\\3-moodledata';
 $CFG->admin     = 'admin';
 
