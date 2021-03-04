@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://lms.local';
-$CFG->dataroot  = 'E:\2-github\1-tailieuweb\4-project-lms\4-moodledata';
+$CFG->dataroot  = 'D:\1-github-workspace\1-tailieuweb\4-project-lms\4-moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
